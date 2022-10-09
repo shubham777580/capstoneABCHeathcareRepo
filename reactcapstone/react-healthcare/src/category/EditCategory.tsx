@@ -1,7 +1,7 @@
 import { useParams } from "react-router-dom"
 
 export default function EditCategory(){
-    const {id}:any = useParams();
+    const {id} : any = useParams();
     return(
         <>
         <h3>Editing Medicine Category</h3>

@@ -10,16 +10,16 @@ export default function Menu(){
                     <ul className="navbar-nav me-auto mb-2 mb-lg-0">
                         <li className="nav-item">
                             {/* <NavLink className="nav-link" to='/category'>Medicine Categories</NavLink> */}
-                            <a className="btn btn-primary" href='/category'>Medicine Categories</a>
+                            <a className="btn btn-primary mx-3" href='/category'>Medicine Categories</a>
                             
                         </li>
 
                         <li className="nav-item">
-                            <a className="btn btn-success" href='/medicines/filter'>Filter Medicine</a>
+                            <a className="btn btn-success mx-3" href='/medicines/filter'>Filter Medicine</a>
                         </li>
 
                         <li className="nav-item">
-                            <a className="btn btn-info" href='/medicines/create'>Add New Medicine</a>
+                            <a className="btn btn-info mx-3" href='/medicines/create'>Add New Medicine</a>
                         </li>
 
                     </ul>
