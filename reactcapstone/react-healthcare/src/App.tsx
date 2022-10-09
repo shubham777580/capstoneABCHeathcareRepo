@@ -6,6 +6,8 @@ import { landingPagedto, medicinedto } from './medicines/medicine.model';
 import Medicinelist from './medicines/Medicinelist';
 import Button from './utils/Button';
 
+//writing a comment for git push check
+
 function App() {
 
   //for delay in rendering
