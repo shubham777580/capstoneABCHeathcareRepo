@@ -24,14 +24,22 @@ function App() {
 
         {/* get route of page from route-config */}
         <Switch>
-          {routes.map(route => 
-          <Route key = {route.path} path={route.path} exact={route.exact}>
-            <route.component />
-          </Route>)}       
+          {routes.map(route =>
+            <Route key={route.path} path={route.path} exact={route.exact}>
+              <route.component />
+            </Route>)}
         </Switch>
 
 
       </div>
+      <footer className="bg-light text-center text-lg-start">
+        
+        <div className="text-center p-3">
+          © 2022 Copyright: ABC Healthcare - Shubham Mukherjee 
+          
+        </div>
+        
+      </footer>
     </BrowserRouter>
   )
 }
