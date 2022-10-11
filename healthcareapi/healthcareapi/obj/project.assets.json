@@ -214,11 +214,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\capstone_project_healthcare\\healthcareapi\\healthcareapi\\healthcareapi.csproj",
+      "projectUniqueName": "D:\\capstone_project_healthcare\\capstoneABCHeathcareRepo\\healthcareapi\\healthcareapi\\healthcareapi.csproj",
       "projectName": "healthcareapi",
-      "projectPath": "D:\\capstone_project_healthcare\\healthcareapi\\healthcareapi\\healthcareapi.csproj",
+      "projectPath": "D:\\capstone_project_healthcare\\capstoneABCHeathcareRepo\\healthcareapi\\healthcareapi\\healthcareapi.csproj",
       "packagesPath": "C:\\Users\\shubham.mukherjee\\.nuget\\packages\\",
-      "outputPath": "D:\\capstone_project_healthcare\\healthcareapi\\healthcareapi\\obj\\",
+      "outputPath": "D:\\capstone_project_healthcare\\capstoneABCHeathcareRepo\\healthcareapi\\healthcareapi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -275,7 +275,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }
