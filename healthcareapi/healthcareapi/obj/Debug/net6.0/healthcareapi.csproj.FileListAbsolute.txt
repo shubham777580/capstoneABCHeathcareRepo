@@ -52,3 +52,11 @@ D:\capstone_project_healthcare\capstoneABCHeathcareRepo\healthcareapi\healthcare
 D:\capstone_project_healthcare\capstoneABCHeathcareRepo\healthcareapi\healthcareapi\obj\Debug\net6.0\healthcareapi.pdb
 D:\capstone_project_healthcare\capstoneABCHeathcareRepo\healthcareapi\healthcareapi\obj\Debug\net6.0\healthcareapi.genruntimeconfig.cache
 D:\capstone_project_healthcare\capstoneABCHeathcareRepo\healthcareapi\healthcareapi\obj\Debug\net6.0\ref\healthcareapi.dll
+D:\capstone_project_healthcare\capstoneABCHeathcareRepo\healthcareapi\healthcareapi\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\capstone_project_healthcare\capstoneABCHeathcareRepo\healthcareapi\healthcareapi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\capstone_project_healthcare\capstoneABCHeathcareRepo\healthcareapi\healthcareapi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\capstone_project_healthcare\capstoneABCHeathcareRepo\healthcareapi\healthcareapi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\capstone_project_healthcare\capstoneABCHeathcareRepo\healthcareapi\healthcareapi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\capstone_project_healthcare\capstoneABCHeathcareRepo\healthcareapi\healthcareapi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\capstone_project_healthcare\capstoneABCHeathcareRepo\healthcareapi\healthcareapi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\capstone_project_healthcare\capstoneABCHeathcareRepo\healthcareapi\healthcareapi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
